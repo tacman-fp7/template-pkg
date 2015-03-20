@@ -9,5 +9,7 @@ The code contains documentation that uses Doxygen. The output produced by Doxyge
 
 http://tacman-fp7.github.io/template-pkg
 
+Status
+======
 
-
+[![Build Status (Linux/OSX)](https://img.shields.io/travis/robotology/yarp/master.svg?label=Build Status (Linux/OSX))](https://travis-ci.org/tacman-fp7/template-pkg)
