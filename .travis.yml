@@ -22,6 +22,7 @@ before_script:
 
 # Change this to your needs
 script: 
+- mkdir build
 - cd build
 - cmake ../
 - make
