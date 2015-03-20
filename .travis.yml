@@ -1,0 +1,16 @@
+language: cpp
+os: 
+  -linux
+compiler:
+  - gcc
+
+before_script:
+- cmake --version
+- mkdir -p build
+
+# Change this to your needs
+script: 
+- cd build
+- cmake ../
+- make
+
